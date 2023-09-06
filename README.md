@@ -3,6 +3,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsuminl115&show_icons=true&theme=one_dark_pro)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminwow1)](https://solved.ac/suminwow1/)
 
 
 
