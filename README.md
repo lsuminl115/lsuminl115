@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsuminl115&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsuminl115&show_icons=true&theme=one_dark_pro)
 
 
 
